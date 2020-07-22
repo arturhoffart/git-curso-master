@@ -1,1 +1,5 @@
-Aqui ficarão os arquivos da aula
+Comandos básicos do Git
+
+git add <nome do arquivo>
+
+
